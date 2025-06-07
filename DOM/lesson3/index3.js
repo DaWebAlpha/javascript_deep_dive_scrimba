@@ -1,4 +1,4 @@
-//CRAETING AND MODIFYING HTML ELEMENTS
+//CREATING AND MODIFYING HTML ELEMENTS
 const newPost = document.createElement('div');
 newPost.textContent = "New post";
 
